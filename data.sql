@@ -1,0 +1,27 @@
+INSERT INTO EOI (job_reference, first_name, last_name, date_of_birth, gender, street_address, suburb, state, postcode, email, phone, skills, other_skills, status)
+VALUES
+    ('DA123', 'John', 'Smith', '1990-05-15', 'Male', '123 Main St', 'Sydney', 'NSW', 2000, 'john.smith@example.com', '0412345678', 'Programming, Database', NULL, 'New'),
+    ('AI420', 'Jane', 'Doe', '1985-08-20', 'Female', '456 Elm St', 'Melbourne', 'VIC', 3000, 'jane.doe@example.com', '0423456789', 'UI/UX, HR, IT, Other', 'Research', 'New'),
+    ('AI420', 'Megan', 'Johnson', '1988-09-24', 'Female', '1919 Elm St', 'Melbourne', 'VIC', 3000, 'megan.johnson@example.com', '0423123456', 'Database', NULL, 'New'),
+    ('PM069', 'Daniel', 'Smith', '1991-11-27', 'Male', '2020 Cedar St', 'Perth', 'WA', 6000, 'daniel.smith@example.com', '0424123456', 'Cloud', NULL, 'New'),
+    ('DA123', 'Sophie', 'Davis', '1987-04-05', 'Female', '2121 Oak St', 'Sydney', 'NSW', 2000, 'sophie.davis@example.com', '0425123456', 'Leadership', NULL, 'New'),
+    ('PM069', 'Michael', 'Johnson', '1992-03-10', 'Male', '789 Oak St', 'Perth', 'WA', 6000, 'michael.johnson@example.com', '0434567890', 'Cloud, Market Analysis, Other', 'Customer Support', 'New'),
+    ('DA123', 'Alice', 'Wilson', '1988-07-25', 'Female', '101 Pine St', 'Sydney', 'NSW', 2000, 'alice.wilson@example.com', '0445678901', 'HR, Presentation, Other', 'Data Analysis', 'New'),
+    ('AI420', 'Ethan', 'Wilson', '1994-10-13', 'Male', '2222 Maple St', 'Melbourne', 'VIC', 3000, 'ethan.wilson@example.com', '0426123456', 'Programming', NULL, 'New'),
+    ('PM069', 'Emily', 'Miller', '1987-11-05', 'Female', '303 Cedar St', 'Perth', 'WA', 6000, 'emily.miller@example.com', '0467890123', 'Programming, UI/UX, Other', 'Marketing', 'New'),
+    ('DA123', 'Michael', 'Smith', '1991-12-08', 'Male', '606 Elm St', 'Sydney', 'NSW', 2000, 'michael.smith@example.com', '0490123456', 'UI/UX, Cloud, Market Analysis, Other', 'Content Writing', 'New'),
+    ('AI420', 'Laura', 'Johnson', '1994-06-23', 'Female', '707 Oak St', 'Melbourne', 'VIC', 3000, 'laura.johnson@example.com', '0411123456', 'HR, Other', 'Event Planning', 'New'),
+    ('PM069', 'David', 'Smith', '1992-10-03', 'Male', '808 Pine St', 'Perth', 'WA', 6000, 'david.smith@example.com', '0412123456', 'UI/UX', NULL, 'New'),
+    ('PM069', 'Sarah', 'Martin', '1989-03-15', 'Female', '909 Maple St', 'Perth', 'WA', 6000, 'sarah.martin@example.com', '0413123456', 'Market Analysis', NULL, 'New'),
+    ('AI420', 'Peter', 'Davis', '1996-02-18', 'Male', '1010 Birch St', 'Melbourne', 'VIC', 3000, 'peter.davis@example.com', '0414123456', 'Leadership, Presentation', NULL, 'New'),
+    ('PM069', 'Olivia', 'Taylor', '1984-08-29', 'Female', '1111 Cedar St', 'Perth', 'WA', 6000, 'olivia.taylor@example.com', '0415123456', 'IT, Cloud', NULL, 'New'),
+    ('DA123', 'Robert', 'Jones', '1987-06-18', 'Male', '1212 Oak St', 'Sydney', 'NSW', 2000, 'robert.jones@example.com', '0416123456', 'Presentation, HR, IT, Other', 'Network Security', 'New'),
+    ('AI420', 'Amanda', 'White', '1989-09-24', 'Female', '1313 Cedar St', 'Melbourne', 'VIC', 3000, 'amanda.white@example.com', '0417123456', 'Market Analysis, Database, Other', 'Digital Marketing', 'New'),
+    ('PM069', 'William', 'Lee', '1990-11-27', 'Male', '1414 Elm St', 'Perth', 'WA', 6000, 'william.lee@example.com', '0418123456', 'Cloud, Leadership, Other', 'Mobile App Development', 'New'),
+    ('PM069', 'Emma', 'Lee', '1992-02-28', 'Female', '2323 Pine St', 'Perth', 'WA', 6000, 'emma.lee@example.com', '0427123456', 'Market Analysis', NULL, 'New'),
+    ('DA123', 'Nicholas', 'Roberts', '1986-08-15', 'Male', '2424 Elm St', 'Sydney', 'NSW', 2000, 'nicholas.roberts@example.com', '0428123456', 'HR', NULL, 'New'),
+    ('DA123', 'Nancy', 'Davis', '1986-04-05', 'Female', '1515 Elm St', 'Sydney', 'NSW', 2000, 'nancy.davis@example.com', '0419123456', 'Database, Leadership, Other', 'SEO', 'New'),
+    ('AI420', 'James', 'Wilson', '1994-10-13', 'Male', '1616 Cedar St', 'Melbourne', 'VIC', 3000, 'james.wilson@example.com', '0420123456', 'Programming, UI/UX, Other', 'Data Analytics', 'New'),
+    ('PM069', 'Sophia', 'Lee', '1992-02-28', 'Female', '1717 Oak St', 'Perth', 'WA', 6000, 'sophia.lee@example.com', '0421123456', 'HR, Cloud, Other', 'Digital Art', 'New'),
+    ('DA123', 'Matthew', 'Wilson', '1986-04-17', 'Male', '1818 Birch St', 'Sydney', 'NSW', 2000, 'matthew.wilson@example.com', '0422123456', 'UI/UX', NULL, 'New');
+
