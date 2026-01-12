@@ -1,4 +1,4 @@
-Dank's IT Company
+## Dank's IT Company Website
 
 ### Overview
 Dank's IT Company is a small PHP/MySQL web app demonstrating a basic recruitment workflow:
